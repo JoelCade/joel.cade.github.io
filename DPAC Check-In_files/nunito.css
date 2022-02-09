@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXV3I6Li01BKofINeaB.woff2 */
+		url('Nunito_400.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXV3I6Li01BKofINeaH.woff */
+		url('Nunito_400.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXV3I6Li01BKofINeaF.eot */
+		url('Nunito_400.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=XRXV3I6Li01BKofINeaG&skey=27bb6aa8eea8a5e7&v=v16#Nunito */
+		url('Nunito_400.svg#Nunito') format('svg'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXV3I6Li01BKofINeaE.ttf */
+		url('Nunito_400.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 600;
+	src:
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofA6sKUYevI.woff2 */
+		url('Nunito_600.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofA6sKUYevO.woff */
+		url('Nunito_600.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofA6sKUYevM.eot */
+		url('Nunito_600.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofA6sKUYevP&skey=52e177ab83d749aa&v=v16#Nunito */
+		url('Nunito_600.svg#Nunito') format('svg'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofA6sKUYevN.ttf */
+		url('Nunito_600.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 700;
+	src:
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofAjsOUYevI.woff2 */
+		url('Nunito_700.woff2') format('woff2'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofAjsOUYevO.woff */
+		url('Nunito_700.woff') format('woff'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofAjsOUYevM.eot */
+		url('Nunito_700.eot?#iefix') format('embedded-opentype'),
+		/* from https://fonts.gstatic.com/l/font?kit=XRXW3I6Li01BKofAjsOUYevP&skey=388548fee26cf4d3&v=v16#Nunito */
+		url('Nunito_700.svg#Nunito') format('svg'),
+		/* from https://fonts.gstatic.com/s/nunito/v16/XRXW3I6Li01BKofAjsOUYevN.ttf */
+		url('Nunito_700.ttf') format('truetype');
+}

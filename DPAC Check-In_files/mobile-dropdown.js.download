@@ -1,0 +1,11 @@
+jQuery(document).ready(function(){
+    jQuery('.toggle-mobile-dropdown').click(function (){
+        if(jQuery('.mobile-dropdown').is(':visible')){
+            jQuery('.mobile-dropdown').hide();
+            jQuery('.toggle-mobile-dropdown').text("Menu");
+        } else {
+            jQuery('.mobile-dropdown').show();
+            jQuery('.toggle-mobile-dropdown').text("Hide");
+        }
+    });
+});

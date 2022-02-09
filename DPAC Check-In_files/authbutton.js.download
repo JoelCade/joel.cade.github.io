@@ -1,0 +1,6 @@
+jQuery(function(){
+    jQuery('.auth-button').on("click",function(e){
+    e.preventDefault();
+    jQuery('.auth-form').trigger("submit");
+});
+});
